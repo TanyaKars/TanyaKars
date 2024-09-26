@@ -5,19 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanyakars&theme=onedark" alt="tanyakars" /></a> </p>
 
-<h3 align="left"> 📫 How to reach me:</h3>
-<p align="left">
-  <a href="mailto:83120590tk@gmail.com">
+<h3 align="left"> 📫 How to reach me: <a href="mailto:83120590tk@gmail.com">
     <img src="https://img.shields.io/badge/83120590tk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+</a></h3>
 
 
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/tanyakarsova"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40" ></a> </h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- <a href="https://www.linkedin.com/in/tanyakarsova"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40" ></a> 
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
