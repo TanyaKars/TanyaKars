@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanyakars&theme=onedark" alt="tanyakars" /></a> </p>
 
-<h3 align="left"> 📫 How to reach me: <a href="mailto:83120590tk@gmail.com">
+<h3 style="font-size: 18px; line-height: 1.5; align="left"> 📫 How to reach me: <a href="mailto:83120590tk@gmail.com">
     <img src="https://img.shields.io/badge/83120590tk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
 </a></h3>
 
