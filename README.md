@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanyakars&label=Profile%20views&color=0e75b6&style=flat" alt="tanyakars" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanyakars" alt="tanyakars" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanyakars&theme=onedark" alt="tanyakars" /></a> </p>
 
 - 📫 How to reach me **83120590tk@gmail.com**
 
