@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanyakars&theme=onedark" alt="tanyakars" /></a> </p>
 
-- 📫 How to reach me **83120590tk@gmail.com**
+<h3 align="left"> 📫 How to reach me: **83120590tk@gmail.com</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg" /> </a> 
+ <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
