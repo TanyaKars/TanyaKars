@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <img height="40" width="40" color="#005FF9" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" />
+ <a href="https://www.linkedin.com/in/tanyakarsova"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="40" width="40"></a> />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
