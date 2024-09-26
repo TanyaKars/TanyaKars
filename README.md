@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin/#005FF9" />
+ <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin/#005FF9.svg" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
