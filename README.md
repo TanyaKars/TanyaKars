@@ -61,5 +61,5 @@
     
 </p>
 
-<p><img align="center" src="https://github-readme-stats-tanyakars-projects.vercel.app/api/top-langs?username=tanyakars&show_icons=true&locale=en&layout=compact&theme=dark" alt="tanyakars" />
+<p><img align="center" src="https://github-readme-stats-tanyakars-projects.vercel.app/api/top-langs?username=tanyakars&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="tanyakars" />
 </p>
